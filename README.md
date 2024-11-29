@@ -1,5 +1,5 @@
 # Netflix_Analysis
-Netflix data analysis with MySql
+Netflix data analysis.
 ![Netflix](https://github.com/pratik-123-alt/Netflix_Analysis/blob/main/netflix.png)
 
 
