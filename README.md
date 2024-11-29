@@ -1,6 +1,6 @@
 # Netflix_Analysis
 Netflix data analysis with MySql
-(https://github.com/pratik-123-alt/Netflix_Analysis/blob/main/netflix.png)
+https://github.com/pratik-123-alt/Netflix_Analysis/blob/main/netflix.png
 Project Description
 This project explores the Netflix dataset to uncover meaningful insights into content trends, audience preferences, and platform growth. By leveraging SQL, I analyzed key metrics such as popular genres, top contributing countries, trends in ratings, and patterns in content duration. The project demonstrates SQL proficiency through data cleaning, exploratory analysis, and advanced queries.
 
